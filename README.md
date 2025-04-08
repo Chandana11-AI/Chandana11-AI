@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandana Archakam Raju!
+# 👋 Hi, I am Chandana Archakam Raju!
 
 🎓 AI/ML Graduate Student at Humber College, Toronto  
 💡 Passionate about Data Science, NLP, Computer Vision & Generative AI  
